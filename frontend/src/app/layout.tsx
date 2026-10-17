@@ -3,8 +3,8 @@ import "leaflet/dist/leaflet.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Недвижка — аренда в Петербурге",
-  description: "Объявления об аренде квартир в Санкт-Петербурге из выбранных каналов.",
+  title: "Rent Hub — объявления из Telegram",
+  description: "Собираем объявления об аренде жилья из Telegram-каналов и показываем их в удобном веб-каталоге.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

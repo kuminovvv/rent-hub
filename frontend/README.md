@@ -1,6 +1,6 @@
 # Frontend
 
-Next.js interface for Rent SPB, built with React, TypeScript, Tailwind CSS, shadcn/ui components, and Leaflet. It provides listing search, filters, paginated results, and a map.
+Next.js interface for Rent Hub, built with React, TypeScript, Tailwind CSS, shadcn/ui components, and Leaflet. It presents rental listings collected from configured Telegram channels, with search, filters, paginated results, and a map.
 
 For the full architecture and local setup, see the [root README](../README.md).
 

@@ -1,6 +1,6 @@
-# Rent SPB
+# Rent Hub
 
-An experimental full-stack rental listing catalog for Saint Petersburg. It collects posts from configured Telegram channels, structures listing details, enriches them with geocoding and building data, and presents the catalog through a map-based web interface.
+An experimental full-stack rental listing catalog for Saint Petersburg. Rent Hub collects posts from configured Telegram channels, structures listing details, enriches them with geocoding and building data, and presents them in a searchable web interface with a map.
 
 ## What it includes
 

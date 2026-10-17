@@ -321,7 +321,7 @@ func (f *fakeHistoryAPI) ContactsResolveUsername(_ context.Context, request *tg.
 	return &tg.ContactsResolvedPeer{
 		Peer: &tg.PeerChannel{ChannelID: 7},
 		Chats: []tg.ChatClass{&tg.Channel{
-			ID: 7, AccessHash: 99, Title: "Rent SPB", Username: request.Username, Broadcast: true,
+			ID: 7, AccessHash: 99, Title: "Rent Hub", Username: request.Username, Broadcast: true,
 		}},
 	}, nil
 }

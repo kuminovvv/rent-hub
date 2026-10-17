@@ -4,8 +4,8 @@ import Link from "next/link";
 export function SiteHeader() {
   return (
     <header className="site-header">
-      <Link className="brand-mark" href="/" aria-label="Недвижка — главная">
-        НЕДВИЖКА
+      <Link className="brand-mark" href="/" aria-label="Rent Hub — главная">
+        RENT HUB
       </Link>
       <nav className="rental-mode" aria-label="Срок аренды">
         <Button className="rental-mode__active" aria-current="page">
