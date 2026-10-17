@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+bin/
+data/
+/api
+.idea/
+*.log
+*.session
+*.session-journal
+
+# Local ingestion configuration
+telegram_sources.txt

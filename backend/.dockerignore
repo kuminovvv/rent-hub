@@ -1,0 +1,8 @@
+.env
+.env.*
+data/
+bin/
+*.session
+*.session-journal
+*.log
+.git/

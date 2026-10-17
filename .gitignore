@@ -1,0 +1,18 @@
+# Environment and runtime secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Telegram sessions, media, and local source configuration
+**/data/
+**/telegram_sources.txt
+**/*.session
+**/*.session-journal
+
+# Build output and local tooling
+**/node_modules/
+**/.next/
+**/dist/
+**/coverage/
+.DS_Store
+Thumbs.db

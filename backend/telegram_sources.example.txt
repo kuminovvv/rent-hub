@@ -1,0 +1,1 @@
+# Add Telegram channel usernames you are authorized to ingest, one per line.

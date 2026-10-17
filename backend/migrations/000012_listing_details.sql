@@ -1,0 +1,3 @@
+ALTER TABLE telegram_post_facts
+    ADD COLUMN IF NOT EXISTS details JSONB NOT NULL DEFAULT '{}'::jsonb,
+    ADD COLUMN IF NOT EXISTS ai_version INTEGER NOT NULL DEFAULT 0;
